@@ -2,15 +2,15 @@
     "message": "成功",
     "status": "200",
     "result": {
-        "name": "value",
-        "sex": "value",
-        "age": "value",
-        "id": "value",
-        "romeNo": "value",
+        "name": "张三",
+        "sex": "男",
+        "age": "77",
+        "id": "123",
+        "romeNo": "401",
         "nursingsAxis": {
-            "time": "value",
-            "type": "1",
-            "meal ": "value",
+            "taskTime": "2018:07:09",
+            "taskState": "1",
+            "meal ": "加餐",
             "nursings": [
                 {
                     "name": "value",
@@ -26,7 +26,7 @@
                     "num": "123"
                 }
             ],
-            "abnormal": "value",
+            "abnormal": "异常",
             "abnormalType": "1",
             "imageUrl": [
                 "图片地址",
