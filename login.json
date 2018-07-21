@@ -1,0 +1,15 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "userId": 123,
+        "userType": 1,
+        "userName": "abc",
+        "userLevel": 1,
+        "userLevelName": "高级护理员",
+        "entryTime": "2016.5.30",
+        "workingYears ": "XXXX年XX月XX日",
+        "superiorName": "cbd",
+        "userPortrait": "http://"
+    }
+}
