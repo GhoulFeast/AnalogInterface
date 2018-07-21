@@ -1,0 +1,33 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "links": [
+            {
+                "wardNumber ": 301,
+                "people": [
+                    {
+                        "name": "张三",
+                        "img": "http",
+                        "id": 1235
+                    },
+                    {
+                        "name": "李四",
+                        "img": "value",
+                        "id": 1234
+                    }
+                ]
+            },
+            {
+                "wardNumber ": 302,
+                "people": [
+                    {
+                        "name": "张三",
+                        "img": "value",
+                        "id": 1233
+                    }
+                ]
+            }
+        ]
+    }
+}
