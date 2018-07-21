@@ -1,0 +1,38 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "name": "张三",
+        "sex": "男",
+        "id": "12",
+        "age": "1",
+        "romeNo": "401",
+        "special": [
+            "特别注意事项",
+            "特别注意事项"
+        ],
+        "emergency": [
+            {
+                "name": "里斯",
+                "phone": "13011112222",
+                "relationship ": "与老人关系"
+            }
+        ],
+        "abnormal ": [
+            {
+                "romeNo": "房间号",
+                "timeSlot ": "时间段",
+                "abnormalTitle ": "异常情况",
+                "submitTime": "提交时间",
+                "submitName": "提交人",
+                "abnormalContent": "异常内容"
+            }
+        ],
+        "imageUrl": [
+            "url"
+        ],
+        "soundUrl": [
+            "录音地址"
+        ]
+    }
+}
