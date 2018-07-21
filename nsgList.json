@@ -1,0 +1,26 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "messageList": [
+            {
+                "type": "1",
+                "messageContent": "消息内容",
+                "name": "张三",
+                "sex": "男",
+                "id": "103",
+                "age": "1",
+                "romeNo": "房间号",
+                "timeSlot ": "时间段",
+                "tasks": [
+                    {
+                        "taskContent": "护理内容1"
+                    },
+                    {
+                        "taskContent": "护理内容2"
+                    }
+                ]
+            }
+        ]
+    }
+}
