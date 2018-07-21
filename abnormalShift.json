@@ -1,0 +1,42 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "abnormalList ": [
+            {
+                "name": "嘿嘿嘿",
+                "sex": "女",
+                "id": "13",
+                "age": "1",
+                "romeNo": "301",
+                "informationList": [
+                    {
+                        "content": "被续了",
+                        "type": "1"
+                    },
+                    {
+                        "content": "提提裤腰带",
+                        "type": "2"
+                    }
+                ]
+            },
+            {
+                "name": "呵呵呵",
+                "sex": "女",
+                "id": "14",
+                "age": "1",
+                "romeNo": "401",
+                "informationList": [
+                    {
+                        "content": "被续了",
+                        "type": "1"
+                    },
+                    {
+                        "content": "提提裤腰带",
+                        "type": "2"
+                    }
+                ]
+            }
+        ]
+    }
+}
