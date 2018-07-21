@@ -1,0 +1,41 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "name": "value",
+        "sex": "value",
+        "age": "value",
+        "id": "value",
+        "romeNo": "value",
+        "nursingsAxis": {
+            "time": "value",
+            "type": "1",
+            "meal ": "value",
+            "nursings": [
+                {
+                    "name": "value",
+                    "isComplete ": "value",
+                    "id": "value",
+                    "isNecessary ": "value"
+                }
+            ],
+            "measurementProject": [
+                {
+                    "name": "护理项目名",
+                    "id": "1",
+                    "num": "123"
+                }
+            ],
+            "abnormal": "value",
+            "abnormalType": "1",
+            "imageUrl": [
+                "图片地址",
+                "图片地址1"
+            ],
+            "soundUrl": [
+                "录音实测",
+                "录音实测1"
+            ]
+        }
+    }
+}
