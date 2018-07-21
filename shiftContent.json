@@ -1,0 +1,20 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "handoverList": [
+            {
+                "oldName": "张三",
+                "isRecheck": true,
+                "oldType": "1",
+                "oldId": "13"
+            },
+            {
+                "oldName": "张三",
+                "isRecheck": true,
+                "oldType": "1",
+                "oldId": "13"
+            }
+        ]
+    }
+}
