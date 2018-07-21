@@ -1,0 +1,34 @@
+{
+    "message": "成功",
+    "status": "200",
+    "result": {
+        "abnormalList ": [
+            {
+                "name": "张三",
+                "sex": "男",
+                "id": "13",
+                "age": "1",
+                "romeNo": "401",
+                "informationList": [
+                    {
+                        "content": "补充信息",
+                        "type": "1"
+                    }
+                ]
+            },
+            {
+                "name": "张三",
+                "sex": "女",
+                "id": "14",
+                "age": "1",
+                "romeNo": "401",
+                "informationList": [
+                    {
+                        "content": "补充信息",
+                        "type": "1"
+                    }
+                ]
+            }
+        ]
+    }
+}
