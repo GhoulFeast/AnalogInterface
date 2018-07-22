@@ -11,11 +11,11 @@
                 "romeNo": "301",
                 "informationList": [
                     {
-                        "content": "被续了",
+                        "messageContent": "被续了",
                         "type": "1"
                     },
                     {
-                        "content": "提提裤腰带",
+                        "messageContent": "提提裤腰带",
                         "type": "2"
                     }
                 ]
@@ -28,11 +28,11 @@
                 "romeNo": "401",
                 "informationList": [
                     {
-                        "content": "被续了",
+                        "messageContent": "被续了",
                         "type": "1"
                     },
                     { 
-                        "content": "提提裤腰带",
+                        "messageContent": "提提裤腰带",
                         "type": "2"
                     }
                 ]
