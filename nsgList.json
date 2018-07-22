@@ -6,6 +6,7 @@
             {
                 "type": "1",
                 "messageContent": "消息内容",
+                "messageTitle":"消息标题",
                 "name": "张三",
                 "sex": "男",
                 "id": "103",
