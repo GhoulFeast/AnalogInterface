@@ -21,8 +21,8 @@
         "abnormal": [
             {
                 "romeNo": "房间号",
-                "timeSlot ": "时间段",
-                "abnormalTitle ": "异常情况",
+                "timeSlot": "时间段",
+                "abnormalTitle": "异常情况",
                 "submitTime": "提交时间",
                 "submitName": "提交人",
                 "abnormalContent": "异常内容",
