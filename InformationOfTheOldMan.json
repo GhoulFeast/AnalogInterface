@@ -25,14 +25,14 @@
                 "abnormalTitle ": "异常情况",
                 "submitTime": "提交时间",
                 "submitName": "提交人",
-                "abnormalContent": "异常内容"
-            }
-        ],
-        "imageUrl": [
+                "abnormalContent": "异常内容",
+                 "imageUrl": [
             "url"
         ],
         "soundUrl": [
             "录音地址"
+        ]
+            }
         ]
     }
 }
